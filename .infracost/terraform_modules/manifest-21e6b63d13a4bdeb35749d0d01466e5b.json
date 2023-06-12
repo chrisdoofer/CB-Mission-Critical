@@ -1,0 +1,1 @@
+{"Path":"c:\\Users\\chbenne\\OneDrive - Microsoft\\GitRepos\\CB-Mission-Critical\\src\\infra\\workload\\globalresources","Version":"2.0","Modules":[{"Key":"stamp_monitoring","Source":"./modules/stamp_monitoring","Dir":"src\\infra\\workload\\globalresources\\modules\\stamp_monitoring"}]}
